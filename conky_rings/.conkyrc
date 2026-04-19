@@ -65,7 +65,7 @@ ${#00FF00}${goto 230}${top name 2}${alignr 84}${top cpu 2}%
 ${#00DD00}${goto 230}${top name 3}${alignr 80}${top cpu 3}%
 ${#00BB00}${goto 230}${top name 4}${alignr 81}${top cpu 4}%
 ${#008800}${goto 230}${top name 5}${alignr 88}${top cpu 5}%
-# HDD
+# DISK
 ${#FF2020}${voffset 42}${alignr 230}${fs_used /home} / ${fs_size /home} root
 ${#FF2020}${voffset 2}${alignr 230}${fs_used /boot} / ${fs_size /boot} boot
 # MEMORY

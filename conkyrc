@@ -74,7 +74,7 @@ $membar
 $font${color #66FFFF}SWAP $alignc ${color #FFFFFF}$swap${color #66FFFF} / $swapmax $alignr $swapperc%
 $swapbar
 
-${font Arial:bold:size=10}${color #00AAFF}HDD ${color #0000AA}${hr 2}
+${font Arial:bold:size=10}${color #00AAFF}DISK ${color #0000AA}${hr 2}
 $font${color #66FFFF}/home $alignc ${color #FFFFFF}${fs_used /home} / ${fs_size /home}${color #66FFFF} $alignr ${fs_free_perc /home}%
 ${fs_bar /home}
 
